@@ -1,18 +1,18 @@
-# English-Kreol-Translator :octocat:
+# _English-Kreol-Translator_ :octocat:
 
 ---
 
-## STUDENT DETAILS :raising_hand:
+## :raising_hand: STUDENT DETAILS
 
-> ROWJEE Ved Hurry
-> 2015080
-> BSc (Hons) Computer Science L1, Group B
-> Computer Programming, ICT 1017Y
-> Date: 01 June 2021;
+ROWJEE Ved Hurry
+2015080
+BSc (Hons) Computer Science L1, Group B
+Computer Programming, ICT 1017Y
+Date: 01 June 2021;
 
 ---
 
-## PROGRAM DESCRIPTION :scroll:
+## :scroll: PROGRAM DESCRIPTION
 
 ### Line 165 : correct() function
 
@@ -47,29 +47,29 @@ REF: https://stackoverflow.com/questions/34403415/print-map-values-in-descending
 
 The sorted pairs are read from a file and pushed into vectors.
 
-### Line 349 -> PART 6
+### Line 349 : PART 6
 
 A file is created as a dictionary for the top 1000 translation. A map is used to do so and english words dublicates are eliminated.
 
-### Line 365 -> PART 7
+### Line 365 : PART 7
 
 Translating english words from dataset to kreol using the new mapping translation. If an english word is not found in the dictionary, it is translated by the english itself.
 
-### Line 436 -> PART 8
+### Line 436 : PART 8
 
 Checking the accuracy of the translation by crosschecking newly translated kreol words with given kreol words from dataset.
 
-### Line 474 -> USER INTERACTION :space_invader:
+### Line 474 : USER INTERACTION :space_invader:
 
 User input an english phrase which is translated into creol using the dictionary.
 
 ---
 
-## THE ACCURACY OF THE TRANSLATOR IS 1% :dart:
+## :dart: THE ACCURACY OF THE TRANSLATOR IS 1%
 
 ---
 
-## FILES CREATED :open_file_folder:
+## :open_file_folder: FILES CREATED
 
 **'MappingFile.txt'** contains English-Kreol word pairs with their frequency.
 
@@ -81,7 +81,7 @@ User input an english phrase which is translated into creol using the dictionary
 
 ---
 
-## PROBLEMS ENCOUNTERED :name_badge:
+## :name_badge: PROBLEMS ENCOUNTERED
 
 1.  Questions in english should be rephrased as when translated kreol question starts with 'Eski'.
     i.e whenever an english sentense ends with a '?', we assume it is a question,
