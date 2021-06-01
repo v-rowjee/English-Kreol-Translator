@@ -5,9 +5,13 @@
 ## :raising_hand: STUDENT DETAILS
 
 ROWJEE Ved Hurry
+
 2015080
+
 BSc (Hons) Computer Science L1, Group B
+
 Computer Programming, ICT 1017Y
+
 Date: 01 June 2021;
 
 ---
