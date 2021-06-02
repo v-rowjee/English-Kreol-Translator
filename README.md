@@ -1,10 +1,10 @@
-# _English-Kreol-Translator_ :octocat:
+# **English-Kreol-Translator** :octocat:
 
 ---
 
 ## :raising_hand: STUDENT DETAILS
 
-ROWJEE Ved Hurry
+**ROWJEE Ved Hurry**
 
 2015080
 
