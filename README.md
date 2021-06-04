@@ -31,6 +31,7 @@ Frequency of each pair added on same line.
 ### Line 299 : PART 4
 
 The word pairs are sorted in descending order of their frequency.
+
 REF: https://stackoverflow.com/questions/34403415/print-map-values-in-descending-order-in-c
 
 ### Line 320 : PART 5
@@ -65,7 +66,7 @@ User input an english phrase which is translated into creol using the dictionary
 
 **'SortedMap.txt'** contains word pairs sorted in descending values of frequency.
 
-**'Distionary.txt'** contains the most accurate word pairs.
+**'Dictionary.txt'** contains the most accurate word pairs.
 
 **'KreolTranslation.txt'** contains the translated kreol sentences using the dictionary.
 
