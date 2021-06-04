@@ -359,8 +359,7 @@ int main()
         kreol.push_back(itr->second);
     }
     ofileDictionary.close();
-    cout << "> 'AccurateMapping.txt' contains the most\n  accurate word pairs.\n";
-    cout << "  It can be considered as our Dictionary.\n\n";
+    cout << "> 'Dictionary.txt' contains the most\n  accurate word pairs.\n\n";
 
     //* PART 7
     // Translating english words from dataset to kreol using the new mapping translation
@@ -441,6 +440,7 @@ int main()
     float accuracySentences(0);
     float SentenceAccPercentage;
 
+    cout << "Given Kreol Dataset -> New Kreol Translation\n\n";
     // Reading file line by line
     string lineOldT, lineNewT;
     vector<string> OldDataset, NewTranslation;
